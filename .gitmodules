@@ -1,0 +1,3 @@
+[submodule "plib"]
+	path = plib
+	url = http://tomcat.dev7.jp/gitbucket/git/daishi/plib.git
